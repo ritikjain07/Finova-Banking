@@ -9,14 +9,15 @@
 3. [Current Features](#current-features)  
 4. [Installation](#installation)  
 5. [Contributing](#contributing)  
-6. [License](#license)  
-7. [Contact](#contact)
+6. [Contact](#contact)
 
 ---
 
 ## **Overview**
 
 ### **About the Project**
+
+![Finova - Banking](images/Screenshot%20(976).png)
 **Finova - Banking** is a work-in-progress finance management system that allows users to link multiple bank accounts, view transaction history, and transfer funds securely. The platform will eventually offer a complete suite of features to help individuals and businesses manage their finances efficiently.
 
 ### **Project Status**
